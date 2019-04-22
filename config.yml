@@ -7,15 +7,15 @@ Giants Configuration:
     Chance: 10
     Worlds:
     Biomes:
-      Forest: false
+      Forest: true
       Desert: true
       Plains: true
       Swampland: true
-      Jungle: false
-      Ice Plains: false
-      Taiga: false
+      Jungle: true
+      Ice Plains: true
+      Taiga: true
       Extreme Hills: true
-      Ice Mountains: false
+      Ice Mountains: true
       Mushroom Island: true
       Other: true
   Attack Mechanisms:
@@ -39,6 +39,6 @@ Giants Configuration:
     Death: true
   Otional Dependencies:
     Spout: true
-  Debug Mode: false
+  Debug Mode: true
   Language:
     Debug Message: '&2A Giant has spawned at X:&F%X &2Y:&F%Y &2Z:&F%Z'
